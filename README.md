@@ -7,7 +7,7 @@ brighter is a simple small tool for adjusting your screen brightness
 
 ## installation and usage
 
-1. clone this repository
+1. clone this repository: `https://github.com/tigran-sedrakyan/brighter.git`
 2. make script executable: `chmod +x brighter`
 3. run `./brighter` and pass desired options
 4. ?????
